@@ -2,18 +2,18 @@
 
 In this project I will explore a database of every LEGO set ever built.
 
-### Dataset Used: 
+### Dataset: 
 
 Rebrickable LEGO Database (https://rebrickable.com/downloads/)
 
-### Language and Packages Used:
+### Language and Packages:
 
 Python: pandas
 
-### Skills Used:
+### Skills:
 
 Data Manipulation <br>
 Data Visualization  <br>
 Importing and Cleaning 
 
-### Conclusion:
+### Learnings:
