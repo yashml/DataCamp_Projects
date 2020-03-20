@@ -4,7 +4,7 @@ In this project I will explore a database of every LEGO set ever built.
 
 ### Dataset: 
 
-Rebrickable LEGO Database (https://rebrickable.com/downloads/)
+[Rebrickable LEGO Database](https://rebrickable.com/downloads/)
 
 ### Language and Packages:
 
