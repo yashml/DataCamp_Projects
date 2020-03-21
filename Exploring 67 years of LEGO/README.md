@@ -1,6 +1,6 @@
 # Exploring 67 years of LEGO
 
-In this project I will explore a database of every LEGO set ever built.
+In this project I will explore a database of every LEGO set ever built. 
 
 ### Dataset: 
 
