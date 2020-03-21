@@ -15,7 +15,7 @@ In these projects I have  applied my skills by doing an end-to-end analysis on t
 ## Python
 | Project | Description |
 | --- | --- |
-| [`Exploring 67 years of LEGO`](https://github.com/yashml/DataCamp-Projects/tree/master/Exploring_67_years_of_LEGO) | Exploring a database of every LEGO set ever built. |
+| [`Exploring 67 years of LEGO`](https://github.com/yashml/DataCamp-Projects/tree/master/Exploring%2067%20years%20of%20LEGO) | Exploring a database of every LEGO set ever built. |
 | [`Dr. Semmelweis and the Discovery of Handwashing`](https://github.com/yashml/DataCamp-Projects/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) | Reanalysing the data behind one of the most important discoveries of modern medicine: handwashing. |
 
 
