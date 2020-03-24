@@ -1,6 +1,6 @@
 # Dr. Semmelweis and the Discovery of Handwashing
 
-- In this project I will reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.
+In this project I will reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.
 
 ### Dataset: 
 
@@ -20,5 +20,4 @@
 ### New Learnings:
 
 - Using *ax* object and giving it as an argument in the plot statement we plot two or more lines in the same plot. The ax object can be used to further modify the plot.
-
 - Running bootstrap analysis using *.sample(frac=1, replace=True)* to check the uncertainity of the estimate.
