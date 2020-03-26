@@ -17,4 +17,4 @@ In this project I will explore a database of every LEGO set ever built.
 - Importing and Cleaning 
 
 ### New Learnings:
-- Using as_index=False while using groupby() function.
+- Using *as_index=False* while using groupby() function.
