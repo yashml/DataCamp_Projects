@@ -15,11 +15,11 @@ In these projects I have  applied my skills by doing an end-to-end analysis on t
 ## Python
 | Project | Description |
 | --- | --- |
-| [`A Network Analysis of Game of Thrones`](https://github.com/yashml/DataCamp_Projects/tree/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones) | Analyzing the network of characters in Game of Thrones and how it changes over the course of the books. |
-|  [`Exploring the Bitcoin Cryptocurrency Market`](https://github.com/yashml/DataCamp_Projects/tree/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)  | Exploring the market capitalization of Bitcoin and other cryptocurrencies. |
-| [`TV, Halftime Shows, and the Big Game`](https://github.com/yashml/DataCamp_Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game) | Exploring the Super Bowl data in the age of soaring ad costs and flashy halftime shows |
-| [`Dr. Semmelweis and the Discovery of Handwashing`](https://github.com/yashml/DataCamp_Projects/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) | Reanalysing the data behind one of the most important discoveries of modern medicine: handwashing. |
-| [`Exploring 67 years of LEGO`](https://github.com/yashml/DataCamp_Projects/tree/master/Exploring%2067%20years%20of%20LEGO) | Exploring a database of every LEGO set ever built. |
+| [A Network Analysis of Game of Thrones](https://github.com/yashml/DataCamp_Projects/tree/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones) | Analyzing the network of characters in Game of Thrones and how it changes over the course of the books. |
+|  [Exploring the Bitcoin Cryptocurrency Market](https://github.com/yashml/DataCamp_Projects/tree/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)  | Exploring the market capitalization of Bitcoin and other cryptocurrencies. |
+| [TV, Halftime Shows, and the Big Game](https://github.com/yashml/DataCamp_Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game) | Exploring the Super Bowl data in the age of soaring ad costs and flashy halftime shows |
+| [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/yashml/DataCamp_Projects/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) | Reanalysing the data behind one of the most important discoveries of modern medicine: handwashing. |
+| [Exploring 67 years of LEGO](https://github.com/yashml/DataCamp_Projects/tree/master/Exploring%2067%20years%20of%20LEGO) | Exploring a database of every LEGO set ever built. |
 
 
 
